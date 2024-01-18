@@ -1,0 +1,4 @@
+Error Log: cs6400_fa17_team001  
+Created: 08/31/2017 18:57:41PM
+Failed inserting: 1062 (23000): Duplicate entry 'ahess@gatech.edu-braymond@gatech.edu' for key 'PRIMARY' 
+INSERT INTO Friendship (email,friend_email,relationship,date_connected) VALUES ('ahess@gatech.edu','braymond@gatech.edu','Bestie',CONCAT(CURDATE()-INTERVAL 18 YEAR));
