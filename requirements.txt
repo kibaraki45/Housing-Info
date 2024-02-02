@@ -1,8 +1,0 @@
-Flask
-mysqlclient
-black
-pymysql
-flask-cors
-numpy
-pandas
-sqlalchemy
