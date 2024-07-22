@@ -1,5 +1,3 @@
-# Frontend Team 87
-
 - How to run the frontend
   1. Cd into the frontend
   2. Run `npm install`
